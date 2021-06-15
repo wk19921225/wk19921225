@@ -1,7 +1,7 @@
 ### Hi there 👋 , I'm wk19921225
 
 - 🔭 I’m a frontend developer working on JD currently.
-- 😄 motto: Young people, less complaints, do more！
+- 😄 motto: Young people, complaint less, do more！
 
 <!--
 **wk19921225/wk19921225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
