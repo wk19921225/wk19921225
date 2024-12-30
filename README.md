@@ -1,6 +1,6 @@
 ### Hi there 👋 , I'm wk19921225
 
-- 🔭 I’m a frontend developer working on Baidu currently.
+- 🔭 I’m a frontend developer working on JD currently.
 - 😄 motto: Young people, complaint less, do more！
 
 <!--
